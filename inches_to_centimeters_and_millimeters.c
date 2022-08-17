@@ -1,6 +1,4 @@
-
 //Assignment 3 : To convert the given inches to centimeters and millimeters
-
 #include <stdio.h>
 void main()
 {
